@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Julius 
 - 👀 I’m interested in JavaScript and Python
 - 🌱 I’m currently learning everything...
-- 📫 How to reach me ... use form on juliusnad.com or here.
+- 📫 How to reach me ... use form on juliusnad.com or msg me on twitter.
 
 <!---
 iamjuliusss/iamjuliusss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
